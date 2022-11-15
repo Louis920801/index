@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>1103510</title>
+</head>
+<body>
+<table border="1" cellpadding="3" cellspacing="1"style="border: 3px solid black;border-collapse:collapse;width:200px;position:absolute;top:0px;left:0px;">
+<tr style="text-align:center; color:black;">
+	<td bgcolor='gray'>Firstname</td>
+    <td bgcolor='gray'>Lastname</td>
+</tr>
+<tr style="text-align:left; color:black;">
+	<td bgcolor='yellow'>1</td>
+    <td bgcolor='yellow'>1</td>
+</tr>
+<tr style="text-align:left; color:black;">
+	<td bgcolor='white'>2</td>
+    <td bgcolor='white'>2</td>
+</tr>
+<tr style="text-align:left; color:black;">
+	<td bgcolor='yellow'>3</td>
+    <td bgcolor='yellow'>3</td>
+</tr>
+</table>
+<div style="text-align:left; border:2px solid green;width:110px;height:100px;position:absolute;top:0px;right:0px;">
+This div
+<br>
+element has 
+<br>
+position:fixed;
+</div>
+</body>
+</html>
